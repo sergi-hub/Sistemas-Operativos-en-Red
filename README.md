@@ -1,1 +1,1 @@
-# Sistemas-Operativos-en-Red
+# josep era retrasat
