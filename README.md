@@ -1,6 +1,6 @@
 # Las redes sociales.
 >>Desde hace ya unos años, las redes sociales se han vuelto muy populares y usadas en todo el mundo por todo tipo de gente, pero la mayoria gente joven.  Hoy voy a hablar sobre algunas de estas redes, y cuales son las mas usadas por la comunidad.
-### [Facebook](www.facebook.es)
+### [Facebook](www.facebook.es) ![Facebook logo]()
 >Esta plataforma fué creada en 2004 por [Mark Zuckerberg](https://es.wikipedia.org/wiki/Mark_Zuckerberg) junto a algunos compañeros de universidad, ya que la creó mientras estaba estudiando. En la actualidad, Facebook es la red social más usada en todo el mundo y cuenta con un total de 2320 millones de usuarios. Tiene una serie de características que la hacen comleja, como: 
 * Compartir textos a los usuarios que te suiguen o ven tu perfíl. 
 * Subir fotos y videos.
