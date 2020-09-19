@@ -1,12 +1,14 @@
 # Las redes sociales.
 >>Desde hace ya unos años, las redes sociales se han vuelto muy populares y usadas en todo el mundo por todo tipo de gente, pero la mayoria gente joven.  Hoy voy a hablar sobre algunas de estas redes, y cuales son las mas usadas por la comunidad.
 ### [Facebook](www.facebook.es) 
-![Facebook logo](https://user-images.githubusercontent.com/71392450/93670263-6c790700-fa9a-11ea-9255-e68ccaa3b0d2.png)
 >Esta plataforma fué creada en 2004 por [Mark Zuckerberg](https://es.wikipedia.org/wiki/Mark_Zuckerberg) junto a algunos compañeros de universidad, ya que la creó mientras estaba estudiando. En la actualidad, Facebook es la red social más usada en todo el mundo y cuenta con un total de 2320 millones de usuarios. Tiene una serie de características que la hacen comleja, como: 
 * Compartir textos a los usuarios que te suiguen o ven tu perfíl. 
 * Subir fotos y videos.
-* Chatear con gente.
+* Chatear con gente.                
 * Hacer retransmisiones en directo.
+
+![Facebook logo](https://user-images.githubusercontent.com/71392450/93670263-6c790700-fa9a-11ea-9255-e68ccaa3b0d2.png)
+
 ### [Youtube](www.youtube.es)
 >Con más de mil millones de videos, esta gran plataforma es la segunda mas utilizada por todo el mundo. La creó [Steve Chen](https://es.wikipedia.org/wiki/Steve_Chen_(YouTube)), junto a dos compañeros de trabajo. En ella existen los llamados _Youtubers_, que se dedican como oficio a subir videos, tanto de entretenimiento, como tutoriales educativos, videojuegos, música,.... Sus principales características són:
 * Se pueden subir videos.
