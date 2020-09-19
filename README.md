@@ -26,4 +26,4 @@
 * Subir videos cortos.
 * Subir videos largos en Instagram Tv.
 * Chatear de forma privada con tus amigos o seguidores. Se pueden crear grupos en los que puedes compartir fotos o videos que has visto en la app.
-[GAto](https://www.nextu.com/wp-content/uploads/sites/3/2019/10/Imagen-2-2.png)
+[GAto](https://github.com/sergi-hub/Sistemas-Operativos-en-Red/blob/master/README.md#whatsapp)
