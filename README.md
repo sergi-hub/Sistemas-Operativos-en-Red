@@ -21,9 +21,8 @@
 * Se pueden subir historias, que son fotos que las pueden ver todos tus contactos y en 24 horas desaparecen.
 * Los mensajes se encryptan cuando los enviamos, ye se desencryptan cuando llegan al destinatario.
 ### [Instagram](https://www.instagram.com/?hl=es)
->Lo que era una aplicación para subir fotos, hoy en dia es una gran plataforma en la que se pueden hacer gran variedad de cosas, desde chatear, hasta subir videos, o incluso hacer retransmisiones en vivo. La app fué creada por [Kevin Systrom](https://es.wikipedia.org/wiki/Kevin_Systrom) junto a [Mike Krieger](https://es.wikipedia.org/wiki/Mike_Krieger). En la actualidad tiene mas de mil millones de usuarios. Sus rasgos tan peculiares que la hicieron triunfar són:
+>Lo que era una aplicación para subir fotos, hoy en dia es una gran plataforma en la que se pueden hacer gran variedad de cosas, desde chatear, hasta subir videos, o incluso hacer retransmisiones en vivo. La app fué creada por [Kevin Systrom](https://es.wikipedia.org/wiki/Kevin_Systrom) junto a [Mike Krieger](https://es.wikipedia.org/wiki/Mike_Krieger). Tiene un poco de similitud con [Facebook](https://github.com/sergi-hub/Sistemas-Operativos-en-Red/blob/master/README.md#facebook), ya que tiene unos fines parecidos. En la actualidad tiene mas de mil millones de usuarios. Sus rasgos tan peculiares que la hicieron triunfar són:
 * Subir fotos en las que los seguidores pueden comentar en ellas.
 * Subir videos cortos.
 * Subir videos largos en Instagram Tv.
 * Chatear de forma privada con tus amigos o seguidores. Se pueden crear grupos en los que puedes compartir fotos o videos que has visto en la app.
-[GAto](https://github.com/sergi-hub/Sistemas-Operativos-en-Red/blob/master/README.md#whatsapp)
