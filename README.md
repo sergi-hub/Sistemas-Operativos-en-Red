@@ -9,7 +9,7 @@
 
 ![Facebook logo](https://user-images.githubusercontent.com/71392450/93670263-6c790700-fa9a-11ea-9255-e68ccaa3b0d2.png)
 
-### [Youtube](www.youtube.es)
+### [Youtube](www.youtube.com)
 >Con más de mil millones de videos, esta gran plataforma es la segunda mas utilizada por todo el mundo. La creó [Steve Chen](https://es.wikipedia.org/wiki/Steve_Chen_(YouTube)), junto a dos compañeros de trabajo. En ella existen los llamados _Youtubers_, que se dedican como oficio a subir videos, tanto de entretenimiento, como tutoriales educativos, videojuegos, música,.... Sus principales características són:
 * Se pueden subir videos.
 * Retransmitir en directo.
