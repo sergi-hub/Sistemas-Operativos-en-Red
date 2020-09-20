@@ -35,3 +35,4 @@
 * Chatear de forma privada con tus amigos o seguidores. Se pueden crear grupos en los que puedes compartir fotos o videos que has visto en la app.
 
 ![Logo Instagram](https://user-images.githubusercontent.com/71392450/93711713-c2a88180-fb50-11ea-83df-0553f08eba64.jpg)
+>>Si quieres investigar un poco más sobre las redes sociales te dejo un [Artículo](https://www.rdstation.com/es/redes-sociales/), que explica mas detalladamente su existencia y formación, o tambíen pues pinchar [Aquí](https://es.wikipedia.org/wiki/Red_social) e investistigar aun más sobre ellas.
