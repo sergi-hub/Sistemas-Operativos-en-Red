@@ -34,4 +34,4 @@
 * Subir videos largos en Instagram Tv.
 * Chatear de forma privada con tus amigos o seguidores. Se pueden crear grupos en los que puedes compartir fotos o videos que has visto en la app.
 
-[Instagram logo](https://user-images.githubusercontent.com/71392450/93711291-63953d80-fb4d-11ea-9c4d-7c8006b42015.jpg)
+![Logo Instagram](https://user-images.githubusercontent.com/71392450/93711713-c2a88180-fb50-11ea-83df-0553f08eba64.jpg)
