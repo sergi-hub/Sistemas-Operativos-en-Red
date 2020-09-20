@@ -16,7 +16,6 @@
 * Es una gran plataforma para implantar anuncios de cualquier cosa.
 
 ![Youtube logo](https://user-images.githubusercontent.com/71392450/93711129-064cbc80-fb4c-11ea-96d1-2ad164ba0019.png)
-
 ### [Whatsapp](https://web.whatsapp.com/)
 >Esta aplicación es de mensajeria al instante. Fué creada por [Jan Koum](https://es.wikipedia.org/wiki/Jan_Koum), aunque luego la plataforma fué comprada por Facebook Inc. Hoy en día es utilizada por más de 1600 millones de personas en el mundo. Lo que hizo que esta app fuera tan utilizada es la capacidad de:
 * Enviar mensajes a cualquier persona y que los recibe al instante.
@@ -26,6 +25,8 @@
 * Hay emoticonos, gifs, stickers.
 * Se pueden subir historias, que son fotos que las pueden ver todos tus contactos y en 24 horas desaparecen.
 * Los mensajes se encryptan cuando los enviamos, ye se desencryptan cuando llegan al destinatario.
+
+![Whatsapp logo](https://user-images.githubusercontent.com/71392450/93711226-d0f49e80-fb4c-11ea-972f-e5b56932583b.jpg)
 ### [Instagram](https://www.instagram.com/?hl=es)
 >Lo que era una aplicación para subir fotos, hoy en dia es una gran plataforma en la que se pueden hacer gran variedad de cosas, desde chatear, hasta subir videos, o incluso hacer retransmisiones en vivo. La app fué creada por [Kevin Systrom](https://es.wikipedia.org/wiki/Kevin_Systrom) junto a [Mike Krieger](https://es.wikipedia.org/wiki/Mike_Krieger). Tiene un poco de similitud con [Facebook](https://github.com/sergi-hub/Sistemas-Operativos-en-Red/blob/master/README.md#facebook), ya que tiene unos fines parecidos. En la actualidad tiene mas de mil millones de usuarios. Sus rasgos tan peculiares que la hicieron triunfar són:
 * Subir fotos en las que los seguidores pueden comentar en ellas.
