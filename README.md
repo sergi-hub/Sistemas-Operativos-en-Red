@@ -35,4 +35,3 @@
 * Chatear de forma privada con tus amigos o seguidores. Se pueden crear grupos en los que puedes compartir fotos o videos que has visto en la app.
 
 [Instagram logo](https://user-images.githubusercontent.com/71392450/93711291-63953d80-fb4d-11ea-9c4d-7c8006b42015.jpg)
-
