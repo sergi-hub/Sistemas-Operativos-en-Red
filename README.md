@@ -14,6 +14,9 @@
 * Se pueden subir videos.
 * Retransmitir en directo.
 * Es una gran plataforma para implantar anuncios de cualquier cosa.
+
+![Youtube logo](https://user-images.githubusercontent.com/71392450/93711129-064cbc80-fb4c-11ea-96d1-2ad164ba0019.png)
+
 ### [Whatsapp](https://web.whatsapp.com/)
 >Esta aplicación es de mensajeria al instante. Fué creada por [Jan Koum](https://es.wikipedia.org/wiki/Jan_Koum), aunque luego la plataforma fué comprada por Facebook Inc. Hoy en día es utilizada por más de 1600 millones de personas en el mundo. Lo que hizo que esta app fuera tan utilizada es la capacidad de:
 * Enviar mensajes a cualquier persona y que los recibe al instante.
